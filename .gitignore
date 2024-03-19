@@ -1,5 +1,4 @@
-*
-!*.ipynb
-!*.py
-!data
-!src
+data/*
+*.csv
+*.parquet
+
