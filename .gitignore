@@ -1,4 +1,5 @@
 data/*
 *.csv
 *.parquet
+src/*.ipynb filter=strip-notebook-output
 
