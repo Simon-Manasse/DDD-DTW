@@ -1,2 +1,0 @@
-def printkokot():
-    print("kokot")
